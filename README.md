@@ -6,9 +6,10 @@ Les consignes :
 
    
 3. Créer l'entité JPA Patient ayant les attributs :
-![image](https://github.com/user-attachments/assets/4ccbef73-fb78-4303-9f2d-bdeb61158963)
+![image](https://github.com/user-attachments/assets/80825dfe-f104-4a2b-9158-06005b6c0071)
+
 4. Configurer l'unité de persistance dans le ficher application.properties
-![Uploading image.png…]()
+
 5. Créer l'interface JPA Repository basée sur Spring data
    
 
