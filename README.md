@@ -24,9 +24,14 @@ Développer un mini Framework qui permet de faire l'injection des dépendances a
 Concevoir et créer un mini Framework d'injection des dépendances similaire à Spring IOC
 Le Framework doit permettre à un programmeur de faire l'injection des dépendances entre les différents composant de son application respectant les possibilités suivantes : 
 1- A travers un fichier XML de configuration en utilisant Jax Binding (OXM : Mapping Objet XML)
+![image](https://github.com/user-attachments/assets/4fc83693-8a5c-4ef1-8a33-2bfe0203b357)
+
 2- En utilisant les annotations
+![image](https://github.com/user-attachments/assets/f2c4d668-966c-44f5-ba06-f473466c4531)
+
 3- Possibilité d'injection via :
     a- Le constructeur
+    
     b- Le Setter
     c- Attribut (accès direct à l'attribut : Field)
 
